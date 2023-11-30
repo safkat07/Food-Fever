@@ -1,5 +1,5 @@
 # 🍔 Food-Fever Online Food Ordering Platform 🍕
-# Welcome to Food-Fever, your go-to online food selling website currently under construction! 🚧
+# Welcome to Food-Fever, your 'TRUSTED' online food selling website! 🚧
 
 # Features
 -📋 Browse our interactive menu with a wide variety of delicious options.
